@@ -1,12 +1,12 @@
 {
   "tasks": [
     {
-      "title": "sdfsdfsaf",
-      "date": "1/1/1",
-      "description": "sdfsdfasdfsdfsadfasdafdfghflghsdfjhghs",
-      "directory": "homework",
+      "title": "homework",
+      "date": "2024-07-05T18:08:31.088Z",
+      "description": "react homework",
+      "directory": "main",
       "important": false,
-      "status": true
+      "status": false
     },
     {
       "title": "sdfsdfsaf",
