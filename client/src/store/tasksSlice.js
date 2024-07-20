@@ -13,11 +13,11 @@ const initialState = [
   {
     id: "abc34",
     title: "shopping",
-    date: "2024-07-19T23:56",
+    date: "2024-07-18T23:56",
     description: "buy an apple",
     directory: "home",
     important: false,
-    status: false,
+    status: true,
   },
 ];
 
